@@ -15,11 +15,11 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/ritikbansal/). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [RitikBansal](https://github.com/ritikbansal/). Thanks!
 
 ## Built With
 
-My personal portfolio <a href="http://soumya-jit.tech/" target="_blank">ritik.app</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="http://ritik.app/" target="_blank">ritik.app</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
